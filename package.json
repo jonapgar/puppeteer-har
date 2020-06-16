@@ -18,7 +18,7 @@
   "author": "Michał Janaszek",
   "license": "MIT",
   "dependencies": {
-    "chrome-har": "https://github.com/jonapgar/puppeteer-har#master"
+    "chrome-har": "https://github.com/jonapgar/chrome-har#master"
   },
   "peerDependencies": {
     "puppeteer": ">=1.0.0"
